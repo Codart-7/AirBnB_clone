@@ -9,11 +9,6 @@
 * [0x05 Usage](#0x05-Usage)
 * [0x06 Authors](#0x06-Authors)
 
-
-
-
-
-
 ## 0x01 Introduction
 
 Team project to build a clone of [AirBnB](https://www.airbnb.com/).
@@ -271,3 +266,5 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ## 0x06 Authors
 * Adisa Michael
 * Chizoba Chukuwoma
+
+* Find the initial team project [here](https://github.com/classychizzy/AirBnB_clone).
